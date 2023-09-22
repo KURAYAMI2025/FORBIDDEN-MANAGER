@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # encoding: utf-8
-# DARKSSH By @Crazy_vpn
+# FORBIDDEN By @Seriousvs
 import socket, threading, thread, select, signal, sys, time
 from os import system
 system("clear")
